@@ -1,0 +1,40 @@
+[p GLOBOPT AUTOSTATIC IEEE_DBL IEEE_FLT PIC14 PICREGULAR PICMID ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 16F887 ]
+[d frameptr 0 ]
+"22 D:\Documents\HKI_2024_2025\TH_VXL\1.LEDDON\BT3.X\BT3.c
+[v _sangDon sangDon `(v  1 e 1 0 ]
+"38
+[v _main main `(v  1 e 1 0 ]
+"10 C:\Program Files\Microchip\xc8\v2.46\pic\sources\c99\common\sprcadd.c
+[v ___fladd __fladd `(d  1 e 4 0 ]
+"4 C:\Program Files\Microchip\xc8\v2.46\pic\sources\c99\common\Umul8_16.c
+[v __Umul8_16 _Umul8_16 `(ui  1 e 2 0 ]
+"6 C:\Program Files\Microchip\xc8\v2.46\pic\sources\c99\pic\__eeprom.c
+[v ___eecpymem __eecpymem `(v  1 e 1 0 ]
+"39
+[v ___memcpyee __memcpyee `(v  1 e 1 0 ]
+"352 C:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/PIC16Fxxx_DFP/1.6.156/xc8\pic\include\proc\pic16f887.h
+[v _PORTD PORTD `VEuc  1 e 1 @8 ]
+"1602
+[v _TRISD TRISD `VEuc  1 e 1 @136 ]
+"3387
+[v _ANSEL ANSEL `VEuc  1 e 1 @392 ]
+"3449
+[v _ANSELH ANSELH `VEuc  1 e 1 @393 ]
+"38 D:\Documents\HKI_2024_2025\TH_VXL\1.LEDDON\BT3.X\BT3.c
+[v _main main `(v  1 e 1 0 ]
+{
+"54
+} 0
+"22
+[v _sangDon sangDon `(v  1 e 1 0 ]
+{
+"25
+[v sangDon@i i `uc  1 a 1 5 ]
+[v sangDon@j j `uc  1 a 1 4 ]
+"24
+[v sangDon@a a `uc  1 a 1 3 ]
+"36
+} 0
